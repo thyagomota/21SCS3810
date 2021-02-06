@@ -9,22 +9,8 @@ USE astronauts;
 DROP TABLE IF EXISTS Astronauts;
 
 -- TODO: create table Astronauts
-CREATE TABLE Astronauts (
-  id          INTEGER PRIMARY KEY AUTO_INCREMENT,
-  lastName    VARCHAR(20),
-  firstName   VARCHAR(20),
-  suffix      VARCHAR(5),
-  gender      CHAR(1),
-  birth       DATE,
-  city        VARCHAR(20),
-  state       VARCHAR(20),
-  country     VARCHAR(15),
-  status      VARCHAR(10),
-  daysInSpace INTEGER,
-  flights     INTEGER );
 
 -- TODO: populate table Astronauts
-LOAD DATA INFILE '/<path>/astronauts.csv' INTO TABLE Astronauts FIELDS TERMINATED BY ',' IGNORE 1 ROWS (lastName, firstName, suffix, gender, birth, city, state, country, status, daysInSpace, flights);
 
 -- TODO: a) the total number of astronauts.
 
@@ -52,4 +38,4 @@ LOAD DATA INFILE '/<path>/astronauts.csv' INTO TABLE Astronauts FIELDS TERMINATE
 
 -- TODO: m) name and age of all non-American astronauts in alphabetical order (use the same name format used in d).
 
--- TODO: n) the average age of all American astronauts that are still active. 
+-- TODO: n) the average age of all American astronauts that are still active.
