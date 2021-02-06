@@ -4,7 +4,7 @@
 
 CREATE DATABASE astronauts;
 
-USE astronauts;
+USE astronauts
 
 DROP TABLE IF EXISTS Astronauts;
 
