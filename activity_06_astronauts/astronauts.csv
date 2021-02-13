@@ -1,0 +1,241 @@
+lastName,firstName,suffix,gender,birth,city,state,country,status,daysInSpace,Flights
+Abrahamson,James,NULL,M,1933-05-19,Williston,ND,USA,Retired,0,0
+Acaba,Joseph,NULL,M,1967-05-17,Inglewood,CA,USA,Active,137,2
+Acton,Loren,NULL,M,1936-03-07,Lewistown,MT,USA,Retired,7,1
+Adams,Michael,NULL,M,1930-05-05,Sacremento,CA,USA,Retired,0,0
+Adamson,James,NULL,M,1946-03-03,Warsaw,NY,USA,Retired,13,2
+Akers,Thomas,NULL,M,1951-05-20,St. Louis,MO,USA,Retired,33,4
+Aldridge,Edward,NULL,M,1938-08-18,Houston,TX,USA,Retired,0,0
+Aldrin,Edwin,Jr.,M,1930-01-20,Montclair,NJ,USA,Retired,12,2
+Allen,Andrew,NULL,M,1955-08-04,Philadelphia,PA,USA,Retired,37,3
+Allen,Joseph,IV,M,1937-06-27,Crawfordsville,IN,USA,Retired,13,2
+Altman,Scott,NULL,M,1959-08-15,Lincoln,IL,USA,Retired,51,4
+Anders,William,NULL,M,1933-10-17,Hong Kong,NULL,China,Retired,6,1
+Anderson,Clayton,NULL,M,1959-02-23,Omaha,NE,USA,Retired,166,2
+Anderson,Lloyd,Jr.,M,1952-02-28,Humansville,MO,USA,Retired,0,0
+Anderson,Michael,NULL,M,1959-12-25,Plattsburgh,NY,USA,Retired,24,2
+Ansari,Anousheh,NULL,F,1966-09-12,Tehran,NULL,Iran,Retired,10,1
+Antonelli,Dominic,NULL,M,1967-08-23,Detroit,MI,USA,Retired,24,2
+Apt,Jerome,III,M,1949-04-28,Springfield,MA,USA,Retired,35,4
+Archambault,Lee,NULL,M,1960-08-25,Oak Park,IL,USA,Retired,26,2
+Armor,James,Jr.,M,1950-09-25,Oklahoma City,OK,USA,Retired,0,0
+Armstrong,Neil,NULL,M,1930-08-05,Wapakoneta,OH,USA,Retired,8,2
+Arnold,Richard,II,M,1963-11-26,Cheverly,MD,USA,Active,12,1
+Ashby,Jeffrey,NULL,M,1954-06-16,Dallas,TX,USA,Retired,27,3
+Aufderhaar,Grant,NULL,M,1948-08-20,Celina,OH,USA,Retired,0,0
+Anon,Serena,NULL,F,1976-04-09,Indianapolis,IN,USA,Active,0,0
+Bagian,James,NULL,M,1952-02-22,Philadelphia,PA,USA,Retired,14,2
+Bailey,Palmer,NULL,M,1947-10-27,Bismarck,ND,USA,Retired,0,0
+Baker,Ellen,NULL,F,1953-04-27,Fayetteville,NC,USA,Retired,28,3
+Baker,Michael,NULL,M,1953-10-27,Memphis,TN,USA,Retired,40,4
+Barratt,Michael,NULL,M,1959-04-16,Vancouver,WA,USA,Active,211,2
+Barrett,Barbara,NULL,F,1950-12-26,Indiana County,PA,USA,Retired,0,0
+Barry,Daniel,NULL,M,1953-12-30,Norwalk,CT,USA,Retired,30,3
+Bartoe,John-David,NULL,M,1944-11-17,Abington,PA,USA,Retired,7,1
+Bassett,Charles,NULL,M,1931-12-30,Dayton,OH,USA,Retired,0,0
+Bean,Alan,NULL,M,1932-03-15,Wheeler,TX,USA,Retired,69,2
+Bechis,Kenneth,NULL,M,1949-07-22,Boston,MA,USA,Retired,0,0
+Behnken,Robert,NULL,M,1970-07-28,Creve Coeur,MO,USA,Active,29,2
+Belt,Michael,NULL,M,1957-09-09,Syracuse,NY,USA,Retired,0,0
+Binnie,William,NULL,M,1953-01-01,West Lafayette,IN,USA,Active,0,0
+Blaha,John,NULL,M,1942-08-26,San Antonio,TX,USA,Retired,161,5
+Bloomfield,Michael,NULL,M,1959-03-16,Flint,MI,USA,Retired,32,3
+Bluford,Guion,Jr.,M,1942-11-22,Philadelphia,PA,USA,Retired,28,4
+Bobko,Karol,NULL,M,1937-12-23,New York City,NY,USA,Retired,16,3
+Boe,Eric,NULL,M,1964-10-01,Miami,FL,USA,Active,28,2
+Boesen,Dennis,NULL,M,1942-08-09,Howard County,NE,USA,Retired,0,0
+Bolden,Charles,Jr.,M,1946-08-19,Columbia,SC,USA,Retired,28,4
+Booen,Michael,NULL,M,1957-05-30,Malmstrom AFB,MT,USA,Retired,0,0
+Borman,Frank,II,M,1928-03-14,Gary,IN,USA,Retired,19,2
+Bowen,Stephen,NULL,M,1964-02-13,Cohasset,MA,USA,Active,40,3
+Bowersox,Kenneth,NULL,M,1956-11-14,Portsmouth,VA,USA,Retired,211,5
+Brady,Charles,Jr.,M,1951-08-12,Pinehurst,NC,USA,Retired,16,1
+Brand,Vance,NULL,M,1931-05-09,Longmont,CO,USA,Retired,31,4
+Brandenstein,Daniel,NULL,M,1943-01-17,Watertown,WI,USA,Retired,32,4
+Bresnik,Randolph,NULL,M,1967-09-11,Fort Knox,KY,USA,Active,10,1
+Bridges,Roy,Jr.,M,1943-07-19,Atlanta,GA,USA,Retired,7,1
+Brown,Curtis,Jr.,M,1956-03-11,Elizabethtown,NC,USA,Retired,57,6
+Brown,David,NULL,M,1956-04-16,Arlington,VA,USA,Retired,15,1
+Brown,Mark,NULL,M,1951-11-18,Valparaiso,IN,USA,Retired,10,2
+Buchli,James,NULL,M,1945-06-20,New Rockford,ND,USA,Retired,20,4
+Buckey,Jay,Jr.,M,1956-06-06,New York City,NY,USA,Retired,15,1
+Bull,John,NULL,M,1934-09-25,Memphis,TN,USA,Retired,0,0
+Burbank,Daniel,NULL,M,1961-07-27,Manchester,CT,USA,Active,188,3
+Bursch,Daniel,NULL,M,1957-07-25,Bristol,PA,USA,Retired,226,4
+Butterworth,Louis,NULL,M,1948-07-17,Casper,WY,USA,Retired,0,0
+Cabana,Robert,NULL,M,1949-01-23,Minneapolis,MN,USA,Retired,37,4
+Cagle,Yvonne,NULL,F,1959-04-24,West Point,NY,USA,Retired,0,0
+Caldeiro,Fernando,NULL,M,1958-06-12,Buenos Aires,NULL,Argentina,Retired,0,0
+Caldwell-Dyson,Tracy,NULL,F,1969-08-14,Arcadia,CA,USA,Active,188,2
+Camarda,Charles,NULL,M,1952-05-08,Queens,NY,USA,Retired,13,1
+Cameron,Kenneth,NULL,M,1949-11-29,Cleveland,OH,USA,Retired,23,3
+Carey,Duane,NULL,M,1957-04-30,St. Paul,MN,USA,Retired,10,1
+Carpenter,Malcolm,NULL,M,1925-05-01,Boulder,CO,USA,Retired,1,0
+Carr,Gerald,NULL,M,1932-08-22,Denver,CO,USA,Retired,84,1
+Carretto,Joseph,Jr.,M,1957-01-30,West Hampstead,NY,USA,Retired,0,0
+Carter,Manley,Jr.,M,1947-08-15,Macon,GA,USA,Retired,5,1
+Casper,John,NULL,M,1943-07-09,Greenville,SC,USA,Retired,34,4
+Cassada,Josh,NULL,M,1973-07-18,San Diego,CA,USA,Active,0,0
+Casserino,Frank,NULL,M,1955-07-21,Bronx,NY,USA,Retired,0,0
+Cassidy,Christopher,NULL,M,1970-01-04,Salem,MA,USA,Active,181,2
+Cenker,Robert,Jr.,M,1948-11-05,Uniontown,PA,USA,Retired,6,1
+Cernan,Eugene,NULL,M,1934-03-14,Chicago,IL,USA,Retired,23,3
+Chaffee,Roger,NULL,M,1935-02-15,Grand Rapids,MI,USA,Retired,0,0
+Chamitoff,Gregory,NULL,M,1962-08-06,Montreal,NULL,Canada,Retired,198,2
+Chang-Diaz,Franklin,NULL,M,1950-04-05,San Jose,NULL,Costa Rica,Retired,66,7
+Chapman,Philip,NULL,M,1935-03-05,Melbourne,NULL,Australia,Retired,0,0
+Chappell,Charles,NULL,M,1943-06-02,Greenville,SC,USA,Retired,0,0
+Chawla,Kalpana,NULL,F,1962-07-01,Karnal,NULL,India,Retired,31,2
+Chiao,Leroy,NULL,M,1960-08-28,Milwaukee,WI,USA,Retired,229,4
+Chilton,Kevin,NULL,M,1954-11-03,Los Angeles,CA,USA,Retired,29,3
+Clark,Laurel,NULL,F,1961-03-10,Ames,IA,USA,Retired,15,1
+Cleave,Mary,NULL,F,1947-02-05,Southampton,NY,USA,Retired,10,2
+Clegg,Robert,NULL,M,1946-08-23,Boston,MA,USA,Retired,0,0
+Clifford,Michael,NULL,M,1952-10-13,Norton AFB,CA,USA,Retired,27,3
+Coats,Michael,NULL,M,1946-01-16,Sacremento,CA,USA,Retired,19,3
+Cockrell,Kenneth,NULL,M,1950-04-09,Austin,TX,USA,Retired,64,5
+Coleman,Catherine,NULL,F,1960-12-14,Charleston,SC,USA,Retired,180,3
+Collins,Eileen,NULL,F,1956-11-19,Elmira,NY,USA,Retired,36,4
+Collins,Michael,NULL,M,1930-10-31,Rome,NULL,Italy,Retired,11,2
+Conrad,Charles,Jr.,M,1930-06-02,Philadelphia,PA,USA,Retired,49,4
+Cooper,Leroy,Jr.,M,1927-03-06,Shawnee,OK,USA,Retired,9,2
+Covey,Richard,NULL,M,1946-08-01,Fayetteville,AR,USA,Retired,26,4
+Creamer,Timothy,NULL,M,1959-11-15,Ft. Huachuca,AZ,USA,Retired,163,1
+Creighton,John,NULL,M,1943-04-28,Orange,TX,USA,Retired,16,3
+Crews,Albert,Jr.,M,1929-03-23,El Dorado,AR,USA,Retired,0,0
+Crippen,Robert,NULL,M,1937-09-11,Beaumont,TX,USA,Retired,23,4
+Crombie,Robert,NULL,M,1954-02-27,Joliet,IL,USA,Retired,0,0
+Crossfield,Albert,NULL,M,1921-10-02,Berkeley,CA,USA,Retired,0,0
+Crouch,Roger,NULL,M,1940-09-12,Jamestown,TN,USA,Retired,19,2
+Culbertson,Frank,Jr.,M,1949-05-15,Charleston,SC,USA,Retired,143,3
+Cunningham,Ronnie,NULL,M,1932-03-16,Creton,IA,USA,Retired,10,1
+Cunningham,Stephen,NULL,M,1945-09-10,Renton,WA,USA,Retired,0,0
+Curbeam,Robert,Jr.,M,1962-03-05,Baltimore,MD,USA,Retired,37,3
+Currie,Nancy,NULL,F,1958-12-29,Wilmington,DE,USA,Retired,41,4
+Dana,William,NULL,M,1930-11-03,Pasadena,CA,USA,Retired,0,0
+Davis,Nancy,NULL,F,1953-11-01,Cocoa Beach,FL,USA,Retired,28,3
+DeArmond,Frank,NULL,M,1954-11-22,Columbia,SC,USA,Retired,0,0
+DeLucas,Lawrence,NULL,M,1950-07-11,Syracuse,NY,USA,Retired,13,1
+Detroye,Jeffrey,NULL,M,1955-01-14,Alexandria,VA,USA,Retired,0,0
+Drew,Benjamin,Jr.,M,1962-11-05,Washington D.C.,District of Columbia,USA,Retired,25,2
+Duke,Charles,Jr.,M,1935-10-03,Charlotte,NC,USA,Retired,11,1
+Dunbar,Bonnie,NULL,F,1949-03-03,Sunnyside,WA,USA,Retired,50,5
+Dunlap,Alexander,NULL,M,1960-07-15,Honolulu,HI,USA,Retired,0,0
+Durrance,Samuel,NULL,M,1943-09-17,Tallahassee,FL,USA,Retired,25,2
+Dutton,James,Jr.,M,1968-11-20,Eugene,OR,USA,Retired,15,1
+Dyson,Esther,NULL,F,1951-07-14,Zurich,NULL,Switzerland,Retired,0,0
+Edwards,Joe,Jr.,M,1958-02-03,Richmond,VA,USA,Retired,8,1
+Eisele,Donn,NULL,M,1930-06-23,Columbus,OH,USA,Retired,10,1
+England,Anthony,NULL,M,1942-05-15,Indianapolis,IN,USA,Retired,7,1
+Engle,Joe,NULL,M,1932-08-26,Dickinson County,KS,USA,Retired,9,2
+Epps,Jeanette,NULL,F,1970-11-03,Syracuse,NY,USA,Active,0,0
+Evans,Ronald,Jr.,M,1933-11-10,St. Francis,KS,USA,Retired,12,1
+Fabian,John,NULL,M,1939-01-28,Goosecreek,TX,USA,Retired,13,2
+Ferguson,Christopher,NULL,M,1961-09-01,Philadelphia,PA,USA,Retired,40,3
+Fettman,Martin,NULL,M,1956-12-31,Brooklyn,NY,USA,Retired,14,1
+Feustel,Andrew,NULL,M,1965-08-25,Lancaster,PA,USA,Active,28,2
+Fincke,Edward,NULL,M,1967-03-14,Pittsburgh,PA,USA,Active,381,3
+Finley,John,NULL,M,1935-12-22,Winchester,MA,USA,Retired,0,0
+Fischer,Jack,NULL,M,1974-01-23,Louisville,CO,USA,Active,0,0
+Fisher,Anna,NULL,F,1949-08-24,St. Albans,NY,USA,Retired,7,1
+Fisher,William,NULL,M,1946-04-01,Dallas,TX,USA,Retired,7,1
+Foale,Colin,NULL,M,1957-01-06,Louth,NULL,Ireland,Retired,373,6
+Ford,Kevin,NULL,M,1960-07-07,Portland,IN,USA,Retired,157,2
+Foreman,Michael,NULL,M,1957-03-29,Columbus,OH,USA,Retired,26,2
+Forrester,Patrick,NULL,M,1957-03-31,El Paso,TX,USA,Retired,39,3
+Fossum,Michael,NULL,M,1957-12-19,Sioux Falls,SD,USA,Active,193,3
+Freeman,Theodore,NULL,M,1930-02-18,Haverford,PA,USA,Retired,0,0
+Frick,Stephen,NULL,M,1964-09-30,Pittsburgh,PA,USA,Retired,23,2
+Fullerton,Charles,NULL,M,1936-10-11,Rochester,NY,USA,Retired,15,2
+Gaffney,Francis,NULL,M,1946-06-09,Carlsbad,NM,USA,Retired,9,1
+Garan,Ronald,Jr.,M,1961-10-30,Yonkers,NY,USA,Retired,177,2
+Gardner,Dale,NULL,M,1948-11-08,Fairmont,MN,USA,Retired,14,2
+Gardner,Guy,NULL,M,1948-01-06,Alta Vista,VA,USA,Retired,13,2
+Garn,Edwin,NULL,M,1932-10-12,Richfield,UT,USA,Retired,6,1
+Garriott,Owen,NULL,M,1930-11-22,Enid,OK,USA,Retired,69,2
+Garriott de Cayeux,Richard,NULL,M,1961-07-04,Cambridge,NULL,England,Retired,11,1
+Gemar,Charles,NULL,M,1955-08-04,Yankton,SD,USA,Retired,24,3
+Gernhardt,Michael,NULL,M,1956-05-04,Mansfield,OH,USA,Retired,43,4
+Gibson,Edward,NULL,M,1936-11-08,Buffalo,NY,USA,Retired,84,1
+Gibson,Robert,NULL,M,1946-10-30,Cooperstown,NY,USA,Retired,36,5
+Givens,Edward,Jr.,M,1930-01-05,Quanah,TX,USA,Retired,0,0
+Glenn,John,Jr.,M,1921-07-18,Cambridge,OH,USA,Retired,9,2
+Glover,Victor,NULL,M,1976-04-30,Pomona,CA,USA,Active,0,0
+Godwin,Linda,NULL,F,1952-07-02,Cape Girardeau,MO,USA,Retired,38,4
+Good,Michael,NULL,M,1962-10-30,Parma,OH,USA,Retired,24,2
+Gordon,Henry,NULL,M,1925-12-23,Valparaiso,IN,USA,Retired,0,0
+Gordon,Richard,Jr.,M,1929-10-05,Seattle,WA,USA,Retired,13,2
+Gorie,Dominic,NULL,M,1957-05-02,Lake Charles,LA,USA,Retired,48,4
+Grabe,Ronald,NULL,M,1945-06-13,New York City,NY,USA,Retired,26,4
+Graveline,Duane,NULL,M,1931-03-02,Newport,VT,USA,Retired,0,0
+Gregory,Frederick,NULL,M,1941-01-07,Washington D.C.,District of Columbia,USA,Retired,18,3
+Gregory,William,NULL,M,1957-05-14,Lockport,NY,USA,Retired,16,1
+Grunsfeld,John,NULL,M,1958-10-10,Chicago,IL,USA,Retired,58,5
+Gutierrez,Sidney,NULL,M,1951-06-21, Albuquerque,NM,USA,Retired,20,2
+Hague,Tyler,NULL,M,1975-09-25,Belleville,KS,USA,Active,0,0
+Haise,Fred,Jr.,M,1933-11-14,Biloxi,MS,USA,Retired,5,1
+Halsell,James,Jr.,M,1956-09-29,Monroe,LA,USA,Retired,52,5
+Ham,Kenneth,NULL,M,1964-12-12,Plainfield,NJ,USA,Retired,25,2
+Hamel,Michael,NULL,M,1950-12-24,Minneapolis,MN,USA,Retired,0,0
+Hammond,Lloyd,Jr.,M,1952-01-16,Savannah,GA,USA,Retired,19,2
+Afanasyev,Viktor,NULL,M,1948-12-31,Bryansk,NULL,Russia,Retired,555,7
+Aksyonov,Vladimir,NULL,M,1935-02-01,Giblitsy,NULL,Russia,Retired,11,2
+Aleksandrov,Aleksandr,NULL,M,1943-02-20,Moscow,NULL,Russia,Retired,309,2
+Anikeyev,Ivan,NULL,M,1993-02-12,NULL,NULL,Russia,Retired,0,0
+Artsebarsky,Anatoly,NULL,M,1956-09-09,NULL,NULL,Russia,Retired,144,1
+Artyukhin,Yury,NULL,M,1930-08-04,NULL,NULL,Russia,Retired,15,1
+Atkov,Oleg,NULL,M,1949-05-09,Khvorostyanka,NULL,Russia,Retired,236,1
+Aubakirov,Toktar,NULL,M,1946-07-27,Karkaraly,NULL,Russia,Retired,7,2
+Avdeyev,Sergei,NULL,M,1956-01-01,Chapayevsk,NULL,Russia,Retired,747,3
+Balandin,Aleksandr,NULL,M,1953-07-30,Fryazino,NULL,Russia,Retired,179,1
+Baturin,Yuri,NULL,M,1949-06-12,Moscow,NULL,Russia,Retired,19,2
+Belyayev,Pavel,NULL,M,1925-06-26,Chelishchevo,NULL,Russia,Retired,1,1
+Beregovoy,Georgy,NULL,M,1921-04-15,Fedorivka,NULL,Russia,Retired,3,1
+Berezovoy,Anatoly,NULL,M,1942-04-11,Enem,NULL,Russia,Retired,211,1
+Bondarenko,Valentin,NULL,M,1937-02-16,Kharkiv,NULL,Russia,Retired,0,0
+Borisenko,Andrei,NULL,M,1964-04-17,Leningrad,NULL,Russia,Active,164,1
+Budarin,Nikolai,NULL,M,1953-04-29,Kirya,NULL,Russia,Retired,444,6
+Bykovsky,Valery,NULL,M,1934-08-02,NULL,NULL,Russia,Retired,20,3
+Dezhurov,Vladimir,NULL,M,1962-07-30,Yavas,NULL,Russia,Retired,244,6
+Dobrovolsky,Georgy,NULL,M,1928-06-01,NULL,NULL,Russia,Retired,23,1
+Dyomin,Lev,NULL,M,1926-01-11,Zvyozdny Gorodok,NULL,Russia,Retired,2,1
+Dzhanibekov,Vladimir,NULL,M,1942-05-13,Iskandar,NULL,Russia,Retired,145,5
+Feoktistov,Konstantin,NULL,M,1926-02-07,NULL,NULL,Russia,Retired,1,1
+Filatyev,Valentin,NULL,M,1930-01-21,NULL,NULL,Russia,Retired,0,0
+Filipchenko,Anatoly,NULL,M,1928-02-26,Davydovka,NULL,Russia,Retired,10,2
+Gagarin,Yuri,NULL,M,1934-05-09,Klushino,NULL,Russia,Retired,0,1
+Gidzenko,Yuri,NULL,M,1962-03-26,Elanets,NULL,Russia,Active,329,6
+Glazkov,Yury,NULL,M,1939-02-10,Moscow,NULL,Russia,Retired,17,1
+Gorbatko,Viktor,NULL,M,1934-12-03,NULL,NULL,Russia,Retired,30,3
+Grechko,Georgy,NULL,M,1931-05-25,NULL,NULL,Russia,Retired,134,8
+Gubarev,Aleksei,NULL,M,1931-03-29,NULL,NULL,Russia,Retired,37,2
+Ivanchenkov,Aleksandr,NULL,M,1940-09-28,NULL,NULL,Russia,Retired,147,2
+Ivanishin,Anatoli,NULL,M,1969-01-15,NULL,NULL,Russia,Active,165,1
+Kaleri,Aleksandr,NULL,M,1956-05-13,NULL,NULL,Russia,Active,769,5
+Khrunov,Yevgeny,NULL,M,1933-09-10,Tula Oblast,NULL,Russia,Retired,1,2
+Kizim,Leonid,NULL,M,1941-08-05,Krasnyi Lyman,NULL,Russia,Retired,374,3
+Klimuk,Pyotr,NULL,M,1942-07-10,Kamarouka,NULL,Russia,Retired,78,3
+Komarov,Vladimir,NULL,M,1927-03-16,Moscow,NULL,Russia,Retired,2,2
+Kondakova,Yelena,NULL,F,1957-03-30,Mytishchi,NULL,Russia,Retired,178,3
+Kondratyev,Dmitri,NULL,M,1969-05-25,Irkutsk,NULL,Russia,Active,159,1
+Liwei,Yang,NULL,M,1965-06-21,Suizhong,NULL,China,Active,0,1
+Junlong,Fei,NULL,M,1965-05-05,Suzhou,NULL,China,Active,4,1
+Haisheng,Nie,NULL,M,1964-10-13,Zaoyang,NULL,China,Active,19,2
+Haipeng,Jing,NULL,M,1966-10-24,Yuncheng city,NULL,China,Active,15,2
+Boming,Liu,NULL,M,1966-09-01,NULL,NULL,China,Active,2,1
+Zhigang,Zhai,NULL,M,1966-10-10,Longjiang County,Qiqihar,China,Active,2,1
+Liu,Wang,NULL,M,1966-01-01,Pingyao County,Shanxi,China,Active,0,1
+Yang,Liu,NULL,F,1978-10-06,Zhengzhou,Henan,China,Active,13,1
+Xiaoguang,Zhang,NULL,M,1966-05-01,Jinzhou,Liaoning,China,Active,0,1
+Yaping,Wang,NULL,F,1978-04-01,Yantai,Shandong,China,Active,0,2
+Kononenko,Oleg,NULL,M,1964-06-21,Chardzhou,NULL,Russia,Active,533,3
+Korniyenko,Mikhail,NULL,M,1960-04-15,Syzran,NULL,Russia,Active,0,2
+Korzun,Valery,NULL,M,1953-03-05,Krasny Sulin,NULL,Russia,Retired,381,4
+Kotov,Loeg,NULL,M,1965-10-27,Simferopol,NULL,Russia,Active,546,3
+Kovalyonok,Vladimir,NULL,M,1942-03-03,Beloye,NULL,Russia,Retired,216,3
+Kozeyev,Konstantin,NULL,M,1967-12-01,Korolyov,NULL,Russia,Active,9,1
+Krikalev,Sergei,NULL,M,1958-08-27,Leningrad,NULL,Russia,Retired,803,5
+Kubasov,Valeri,NULL,M,1935-01-07,Vyazniki,NULL,Russia,Retired,18,3
+Laveykin,Aleksandr,NULL,M,1951-04-21,Moscow,NULL,Russia,Retired,174,1
+Lazarev,Vasily,NULL,M,1928-02-23,Poroshino,NULL,Russia,Retired,1,2
+Pontes,Marcos,NULL,M,1963-03-11,Bauru,NULL,Brazil,Active,9,2
